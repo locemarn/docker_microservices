@@ -1,0 +1,7 @@
+listing-service/node_modules
+listing-services/*
+users-service/node_modules
+api-gateway/node_modules
+classifieds-app/node_modules
+
+.idea
