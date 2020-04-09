@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "babel-watch": "^7.0.0"
+  }
+}
