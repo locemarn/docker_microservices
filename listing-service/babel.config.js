@@ -1,7 +1,7 @@
 module.exports = {
   plugins: [
     [
-      "module-resolver",
+      "module-resolvers",
       {
         alias: {
           "#root": "./src"
