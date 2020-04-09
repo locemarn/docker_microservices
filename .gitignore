@@ -1,7 +1,13 @@
 listing-service/node_modules
-listing-services/*
+listing-service/.bash_history
+
 users-service/node_modules
+users-service/.bash_history
+
 api-gateway/node_modules
+api-gateway/.bash_history
+
 classifieds-app/node_modules
+classifieds-app/.bash_history
 
 .idea
