@@ -1,13 +1,17 @@
 listing-service/node_modules
 listing-service/.bash_history
+listing-service/yarn-error.log
 
 users-service/node_modules
 users-service/.bash_history
+users-service/yarn-error.log
 
 api-gateway/node_modules
 api-gateway/.bash_history
+api-gateway/yarn-error.log
 
 classifieds-app/node_modules
 classifieds-app/.bash_history
+classifieds-app/yarn-error.log
 
 .idea
